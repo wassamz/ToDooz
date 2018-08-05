@@ -1,5 +1,5 @@
-# AngularTourOfHeroes
-Learning Angular 6 while implementing the tutorial at https://angular.io/tutorial
+# ToDooz
+Practicing Angular 6 development. App is heavily mimics the Tour of Heroes tutorial https://angular.io/tutorial
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
